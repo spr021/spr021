@@ -1,6 +1,6 @@
-<img src="https://github.com/spr021/spr021/blob/master/resources/header.png?raw=true">
+<img src="./resources/header.png?raw=true">
 
-<img align="right" src="https://github.com/spr021/spr021/blob/master/resources/right.png?raw=true" width=450px/>
+<img align="right" src="./resources/right.png?raw=true" width=450px/>
 
 ### Hi, I'm Saber 👋
 
