@@ -9,6 +9,6 @@ I'm a software engineer who is passionate about building open source projects an
 - 📱 I’m currently working on [Taaghce](https://taaghche.com/)
 - 🤓 I’m learning NextJs at the moment.
 - 💬 Ask me about JS, TS, React development. 
-- 📪 You can reach me via saber.pourrahimi.1999@gmail.com
+- 📪 You can reach me via saber@pourrahimi.com
 
 For more information about me, check out [saber.pourrahimi.com](https://saber.pourrahimi.com/).
